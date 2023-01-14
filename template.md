@@ -6,8 +6,16 @@ Template starts now
 
 -----------
 
+
 ![Logo](https://avatars.githubusercontent.com/u/117459812?s=200&v=4)
-#   Newsify
+#   Newsify - Profile Management Service
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=for-the-badge)
+
+## Table of Content
+1. [Prerequisites](#prerequisites)
+2. [Getting started](#getting-started)
+3. [Repository Overview](#repository-overview)
+4. [Deployment](#deployment)
 
 # Prerequisuites
 1. Python v3.7
