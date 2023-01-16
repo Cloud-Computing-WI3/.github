@@ -3,7 +3,7 @@
 ## Contributors
 Namen rein?
 
-![System Architecture](https://raw.githubusercontent.com/Cloud-Computing-WI3/.github/01403d7cf7b4c7c71404dab2672960d9de4abedc/images/system_architecture.svg)
+![System Architecture](https://raw.githubusercontent.com/Cloud-Computing-WI3/.github/3ab0687e1920980902927117906bacd48e96b45e/images/system_architecture.svgg)
 
 
 ## Components
