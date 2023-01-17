@@ -40,7 +40,7 @@ This Microservice is responsible for labeling the articles with a category and a
 
 
 ### 5) Kafka
-[Apache Kafka](https://kafka.apache.org/) is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications. In our use case it receives the articles from different sources and writes them into the elastic database [3](#3-elasticsearch]
+[Apache Kafka](https://kafka.apache.org/) is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications. In our use case it receives the articles from different sources and writes them into the elastic database [3](#3-elsticsearch)
 ### 6) Connector controller
 ### 7) Schedulers
 #### Connector Scheduler
