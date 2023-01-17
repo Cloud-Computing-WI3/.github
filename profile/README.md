@@ -24,7 +24,7 @@ It integrates a profile management service and a service for retrieving news art
 The Profile Management Service is based on Django and is used to store user information and for authentication. User information is stored in a relational database (MySQL) on Amazon Redshift as well as on an Amazon S3 bucket (profile images).
 
 #### Profile News Feed Provider Service
-The News Feed Provider Service connects the frontend with the Elasticsearch database (more about Elasticsearch under [point 3](#3-elsticsearch)). Via an API in Python ([FASTAPI](https://github.com/tiangolo/fastapi)), the frontend requests the service as soon as a user wants to display articles in the frontend. If the user has already requested the data, Redis is used. Redis is an open-source in-memory database that can be used to cache data. If the user queries data already available in redis, the data is not loaded from Elasticsearch, but from redis. This has the advantage that the query is much faster and therefore the loading of the data is much more performant.
+The News Feed Provider Service connects the frontend with the Elasticsearch database (more about Elasticsearch under [point 3](#3-Elasticsearch)). Via an API in Python ([FASTAPI](https://github.com/tiangolo/fastapi)), the frontend requests the service as soon as a user wants to display articles in the frontend. If the user has already requested the data, Redis is used. Redis is an open-source in-memory database that can be used to cache data. If the user queries data already available in redis, the data is not loaded from Elasticsearch, but from redis. This has the advantage that the query is much faster and therefore the loading of the data is much more performant.
 ***TODO***: *Nochmals drüber lesen ob das so stimmt*
 
 #### User Data DB
@@ -40,7 +40,7 @@ This Microservice is responsible for labeling the articles with a category and a
 
 
 ### 5) Kafka
-[Apache Kafka](https://kafka.apache.org/) is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications. In our use case it receives the articles from different sources and writes them into the elastic database [3](#3-elsticsearch)
+[Apache Kafka](https://kafka.apache.org/) is an open-source distributed event streaming platform used by thousands of companies for high-performance data pipelines, streaming analytics, data integration, and mission-critical applications. In our use case it receives the articles from different sources and writes them into the elastic database [3](#3-Elasticsearch)
 ### 6) Connector controller
 ### 7) Schedulers
 #### Connector Scheduler
