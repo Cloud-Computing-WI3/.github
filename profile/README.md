@@ -1,7 +1,14 @@
 ![Logo](https://avatars.githubusercontent.com/u/117459812?s=200&v=4)
 #   Newsify
 ## Contributors
-Namen rein?
+![Kevin Eberhardt](https://avatars.githubusercontent.com/u/47750689?s=48&v=4) Kevin Eberhardt (E-Mail: [ke034@hdm-stuttgart.de](ke034@hdm-stuttgart.de))
+
+![Danial Eshete](https://avatars.githubusercontent.com/u/47521900?s=48&v=4) Danial Eshete (E-Mail: )
+
+Harri Fassbender (E-Mail: )
+
+![Harri Fassbender](https://avatars.githubusercontent.com/u/64253062?s=48&v=4) Jonathan Kessel (E-Mail: )
+
 
 ![System Architecture](https://raw.githubusercontent.com/Cloud-Computing-WI3/.github/3ab0687e1920980902927117906bacd48e96b45e/images/system_architecture.svg)
 
@@ -39,5 +46,3 @@ A relational database on Amazon Redshift that stores user information.
 #### Scraper Scheduler
 ### 8) News Service
 ### 9) Scraper Service
-
-
