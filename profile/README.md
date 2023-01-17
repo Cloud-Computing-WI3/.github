@@ -1,5 +1,9 @@
-![Logo](https://avatars.githubusercontent.com/u/117459812?s=200&v=4)
-#   Newsify
+![Logo](https://avatars.githubusercontent.com/u/117459812?s=200&v=4)     
+# Newsify
+
+
+
+
 ## Contributors
 ![Kevin Eberhardt](https://avatars.githubusercontent.com/u/47750689?s=48&v=4) Kevin Eberhardt 
 
