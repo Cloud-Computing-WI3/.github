@@ -5,12 +5,13 @@
 
 
 ## Contributors
-![Kevin Eberhardt](https://avatars.githubusercontent.com/u/47750689?s=48&v=4) Kevin Eberhardt 
+![Kevin Eberhardt](https://avatars.githubusercontent.com/u/47750689?s=48&v=4) [Kevin Eberhardt](https://github.com/kevin-eberhardt) 
 
-![Danial Eshete](https://avatars.githubusercontent.com/u/47521900?s=48&v=4) Danial Eshete
+![Danial Eshete](https://avatars.githubusercontent.com/u/47521900?s=48&v=4) [Danial Eshete](https://github.com/danialeshete)
 
+![Harri Fassbender]() [Harri Fassbender](https://github.com/harrif020)
 
-![Harri Fassbender](https://avatars.githubusercontent.com/u/64253062?s=48&v=4) Harri Fassbender
+![Jonathan Kessel](https://avatars.githubusercontent.com/u/64253062?s=48&v=4) [Jonathan Kessel](https://github.com/JonathanKessel) 
 
 
 ![System Architecture](https://raw.githubusercontent.com/Cloud-Computing-WI3/.github/3ab0687e1920980902927117906bacd48e96b45e/images/system_architecture.svg)
