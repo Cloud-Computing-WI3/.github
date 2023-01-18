@@ -30,7 +30,7 @@ The Profile Management Service is based on Django and is used to store user info
 
 #### Profile News Feed Provider Service
 The News Feed Provider Service connects the frontend with the Elasticsearch database (more about Elasticsearch under [point 3](#3-Elasticsearch)). Via an API in Python ([FASTAPI](https://github.com/tiangolo/fastapi)), the frontend requests the service as soon as a user wants to display articles in the frontend. If the user has already requested the data, Redis is used. Redis is an open-source in-memory database that can be used to cache data. If the user queries data already available in redis, the data is not loaded from Elasticsearch, but from redis. This has the advantage that the query is much faster and therefore the loading of the data is much more performant.
-***TODO***: *Nochmals drüber lesen ob das so stimmt*
+
 
 #### User Data DB
 A relational database on Amazon Redshift that stores user information.
