@@ -1,6 +1,7 @@
 ![Logo](https://avatars.githubusercontent.com/u/117459812?s=200&v=4)     
 # Newsify
 
+[Newsify Demo](https://cohesive-slate-368310.uc.r.appspot.com)
 
 
 
