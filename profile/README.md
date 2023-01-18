@@ -53,11 +53,11 @@ This Microservice is responsible for activating the connection sink between betw
 ### 7) Schedulers
 These schedulers call the defined endpoints at predefined intervalls, they are implemented as [google cloud scheduler](https://cloud.google.com/scheduler?hl=en). 
 #### Connector Scheduler
-Activates and pauses the [connector controller](#6-Connector controller). 
+Activates and pauses the [connector controller](#6-connector-controller). 
 #### News Scheduler
-Ativates and pauses the [news service](#3-News Service).
+Ativates and pauses the [news service](#8-news-service).
 #### Scraper Scheduler
-Activates and pauses the [Scraper Service](#9-Scraper Service).
+Activates and pauses the [Scraper Service](#9-scraper-service).
 ### 8) News Service
 This service is calling the [top headlines](https://newsapi.org/docs/endpoints/top-headlines) endpoint from newsapi.org. It acts as a producer for [kafka](#5-kafka). 
 The News Serice is implemented as [google cloud function](https://cloud.google.com/functions). 
