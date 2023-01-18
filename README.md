@@ -1,6 +1,7 @@
 ![Logo](https://avatars.githubusercontent.com/u/117459812?s=200&v=4)     
 # Newsify
 
+[Newsify Demo](https://cohesive-slate-368310.uc.r.appspot.com)
 
 
 
@@ -9,7 +10,7 @@
 
 ![Danial Eshete](https://avatars.githubusercontent.com/u/47521900?s=48&v=4) [Danial Eshete](https://github.com/danialeshete)
 
-![Harri Fassbender]() [Harri Fassbender](https://github.com/harrif020)
+![Harri Fassbender](https://dummyimage.com/48x48/000/fff&text=Harri+Faßbender) [Harri Fassbender](https://github.com/harrif020)
 
 ![Jonathan Kessel](https://avatars.githubusercontent.com/u/64253062?s=48&v=4) [Jonathan Kessel](https://github.com/JonathanKessel) 
 
