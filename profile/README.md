@@ -10,7 +10,7 @@
 
 ![Danial Eshete](https://avatars.githubusercontent.com/u/47521900?s=48&v=4) [Danial Eshete](https://github.com/danialeshete)
 
-![Harri Fassbender](https://dummyimage.com/48x48/000/fff&text=Harri+Faßbender) [Harri Fassbender](https://github.com/harrif020)
+![Harri Fassbender](https://dummyimage.com/48x48/000000/ffffff.png&text=Harri) [Harri Fassbender](https://github.com/harrif020)
 
 ![Jonathan Kessel](https://avatars.githubusercontent.com/u/64253062?s=48&v=4) [Jonathan Kessel](https://github.com/JonathanKessel) 
 
